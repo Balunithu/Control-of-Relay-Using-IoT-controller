@@ -1,6 +1,6 @@
 ## NAME: NIKSHITHA G
 ## REG NO: 212223110031
-# EX 02 Control-of-Relay-Using-IoT-controller
+# EX 02 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
