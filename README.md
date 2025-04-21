@@ -54,12 +54,14 @@ void loop() {
 ```
 ## CIRCUIT DIAGRAM:
 ![alt text](<Screenshot 2025-03-27 135310.png>)
+
 ## OUTPUT:
 
 ## ON
-![alt text](<Screenshot 2025-03-27 134536.png>)
+![Screenshot 2025-03-27 134536](https://github.com/user-attachments/assets/0b3f4196-ec70-4e79-990f-2e53933ebd78)
+
 ## OFF
-![alt text](<Screenshot 2025-03-27 134602.png>)
+![Screenshot 2025-03-27 134602](https://github.com/user-attachments/assets/f43d4f7f-0ee9-4547-bde6-27770af551d2)
 
 ## RESULT:
 
